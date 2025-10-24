@@ -100,4 +100,4 @@ Business challenges include:
 
 6. Screenshots / Demos
 
-Dashboard: https://github.com/sksowel/UBER-Data-Analyst-Project/blob/main/UBER_Dashboard_1.png
+Dashboard: ![Dashboard Preview]https://github.com/sksowel/UBER-Data-Analyst-Project/blob/main/UBER_Dashboard_1.png
